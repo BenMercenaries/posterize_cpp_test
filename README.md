@@ -20,6 +20,9 @@ Your implementation should be fairly simple, easy to read, and should behave pre
 
 You should not over-optimize, nor over-complexify.
 
+## Extra challenge ######
+
+As an extra challenge, you can reimplement the quantize_image function (in main.cpp) which, as is, has a complexity of O(ncolors x npixels).
 
 Compiling
 =========
